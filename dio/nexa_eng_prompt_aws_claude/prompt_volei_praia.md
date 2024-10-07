@@ -14,19 +14,18 @@ Idade deve considerar quatro faixas etárias:
 - 41 a 50 anos
 - 51 a 560 anos
 
-Regra 2: Idade
-Nível:
-- iniciante
-- intermediário
+Regra 2: Nível
+- Iniciante
+- Intermediário
 - Avançado
 
 Regra 3:  biotipo corporal
-Identificar qual o tipo com base nos itens abaixo:
+Identificar qual o biotipo com base nos itens abaixo:
 - Ectomorfo: Corpo mais magro, difícil ganhar peso e massa muscular.
 - Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
 - Endomorfo: Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
 
-Regra 4:  tipo de treino
+Regra 4: tipo de treino
 - Musculação e volei de praia
 - Musculação
 - Vôlei de praia
@@ -42,4 +41,4 @@ De acordo com a quantidade de dias de treino e nível montar:
 - Para treinos de musculação especifique quais são os exercícios a serem realizados e inetrvalo de tempo entre cada exercício. Inclua links de vídeos de youtube com exemplo de cada exercício de musculação.
 - Para treinos de vôlei de praia especifique quais são os exercícios a serem realizados e inetrvalo de tempo entre cada exercício. Inclua links de vídeos de youtube com exemplo de cada exercício de vôlei de praia.
 - Os vídeos de exemplo no youtube devem ser do canal @izackmartinss
-- Os fundamentos de vôlei de rpara a serem treinados são: passe, saque, bloqieo, ataque, defesa e levantamento.
+- Os fundamentos de vôlei de praia a serem treinados são: passe, saque, bloqieo, ataque, defesa e levantamento.

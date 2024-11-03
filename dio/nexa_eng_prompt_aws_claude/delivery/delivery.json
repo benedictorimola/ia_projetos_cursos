@@ -6,7 +6,7 @@
         "Type": "Task",
         "Resource": "arn:aws:states:::bedrock:invokeModel",
         "Parameters": {
-          "ModelId": "arn:aws:bedrock:us-east-2:767397908248:inference-profile/us.anthropic.claude-3-haiku-20240307-v1:0",
+          "ModelId": "arn:aws:bedrock:us-east-2:123456789012:inference-profile/us.anthropic.claude-3-haiku-20240307-v1:0",
           "Body": {
             "prompt.$": "$.prompt_one",
             "max_tokens": 250
@@ -32,7 +32,7 @@
         "Type": "Task",
         "Resource": "arn:aws:states:::bedrock:invokeModel",
         "Parameters": {
-          "ModelId": "arn:aws:bedrock:us-east-2:767397908248:inference-profile/us.anthropic.claude-3-haiku-20240307-v1:0",
+          "ModelId": "arn:aws:bedrock:us-east-2:123456789012:inference-profile/us.anthropic.claude-3-haiku-20240307-v1:0",
           "Body": {
             "prompt.$": "States.Format('{}\n{}', $.convo_one.convo_one, $.prompt_two)",
             "max_tokens": 200
@@ -58,7 +58,7 @@
         "Type": "Task",
         "Resource": "arn:aws:states:::bedrock:invokeModel",
         "Parameters": {
-          "ModelId": "arn:aws:bedrock:us-east-2:767397908248:inference-profile/us.anthropic.claude-3-haiku-20240307-v1:0",
+          "ModelId": "arn:aws:bedrock:us-east-2:123456789012:inference-profile/us.anthropic.claude-3-haiku-20240307-v1:0",
           "Body": {
             "prompt.$": "States.Format('{}\n{}', $.convo_two.convo_two, $.prompt_three)",
             "max_tokens": 250
